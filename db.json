@@ -1,0 +1,52 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "123Altima 113",
+      "price": "512776123",
+      "desc": "Other hyperparathyroidism 1123",
+      "status": true,
+      "img": "https://cdn.fakercloud.com/avatars/id835559_128.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bugatti Civic",
+      "price": 185065,
+      "desc": "Acute appendicitis with localized peritonitis",
+      "status": true,
+      "img": "https://cdn.fakercloud.com/avatars/kojourin_128.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mercedes Benz Challenger",
+      "price": 392249,
+      "desc": "Other bursitis of elbow",
+      "status": false,
+      "img": "https://cdn.fakercloud.com/avatars/d_kobelyatsky_128.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chrysler 911",
+      "price": 533717,
+      "desc": "Scrotal transposition",
+      "status": true,
+      "img": "https://cdn.fakercloud.com/avatars/anoff_128.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Smart Durango",
+      "price": 83439,
+      "desc": "Other ossification of muscle, left thigh",
+      "status": true,
+      "img": "https://cdn.fakercloud.com/avatars/adobi_128.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chrysler Durango",
+      "price": 244973,
+      "desc": "Nondisplaced fracture of right tibial spine",
+      "status": true,
+      "img": "https://cdn.fakercloud.com/avatars/moscoz_128.jpg"
+    }
+  ]
+}

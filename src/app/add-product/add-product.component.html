@@ -1,0 +1,28 @@
+<head>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossOrigin="anonymous" />
+</head>
+
+<div class="contact">
+    <form class="contact-form" autocomplete="off">
+        <div class="contact-form-group">
+            <label for="name" class="contact-form-label">Your Name</label>
+            <input name="name" [(ngModel)]="product.name" placeholder="Name" type="text" class="contact-form-input" />
+        </div>
+        <div class="contact-form-group">
+            <label for="email" class="contact-form-label">Your Price</label>
+            <input name="price" [(ngModel)]="product.price" placeholder="Price" type="text" class="contact-form-input" />
+        </div>
+        <div class="contact-form-group">
+            <label for="message" class="contact-form-label">Your Desc</label>
+            <textarea name="message" [(ngModel)]="product.desc" id="message" class="contact-form-area"
+                placeholder="Type something if you want" value=""></textarea>
+        </div>
+
+        <button (click)="onAddProduct()" class="contact-form-submit">Send Message</button>
+    </form>
+
+
+
+
+</div>
